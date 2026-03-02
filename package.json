@@ -1,0 +1,9 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "Galactic Mission Generator (Mixed Messages project)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
